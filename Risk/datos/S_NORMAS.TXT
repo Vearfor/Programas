@@ -1,0 +1,171 @@
+ NORMAS DEL RISK
+==================
+ 
+  El RISK se desarrolla sobre un planisferio de 42 territorios.
+  Sobre el tablero y alrededor del mundo, cada jugador se debe  esforzar
+  en ser el primero en conseguir su objetivo.
+ 
+  Objetivo del juego: CONQUISTAR EL MUNDO ENTERO
+ 
+  Cada turno de juego se divide en los siguientes tiempos:
+ 
+- Adquirir nuevos ejercitos.
+  En funcion de los territorios ocupados y de las cartas conseguidas.
+ 
+- Disponer estos ejercitos sobre los territorios propios.
+ 
+- Combatir al adversario y conquistar territorios.
+ 
+- Coger carta si ha habido la conquista de al menos un territorio.
+ 
+- Desplazar los ejercitos despues de los combates.
+ 
+ 
+  Estos tiempos se resumen en los siguientes:
+ 
+                                    |  1 - Refuerzos.
+    Tres tiempos:  --|  2 - Combates.
+                                    |  3 - Desplazamientos.
+ 
+ 
+  Distribucion de los ejercitos segun el numero de jugadores :
+ 
+   Para 3 jugadores se reparten 35 ejercitos para cada jugador.
+   Para 4 jugadores se reparten 30 ejercitos  ..   ..   ..    .
+   Para 5 jugadores se reparten 25 ejercitos  ..   ..   ..    .
+   Para 6 jugadores se reparten 20 ejercitos  ..   ..   ..    .
+ 
+   En el programa actual pueden jugar hasta 10 jugadores.
+<FinPagina>
+  Reforzar Ejercitos
+  ===================
+ 
+El jugador puede disponer de los ejercitos recibidos sobre sus
+territorios como el prefiera.
+ 
+Hay tres tipos de refuerzos suplementarios:
+ 
+  1 - El jugador tiene tantos ejercitos de refuerzos como el resultado
+  de dividir por tres los territorios propios del planisferio sin
+  distincion de continentes.
+      Por ejemplo, si tiene 14 territorios recibira 4 ( 14/3 = 4  y
+  sobran dos territorios ).
+  El minimo de este refuerzo sera de 3 aunque se tengan menos de
+  9 territorios.
+  Se recibira en todos los turnos.
+ 
+  2 - Si se poseen uno o mas continentes completos, se tiene derecho
+  a un cierto numero de ejercitos suplementarios en cada turno de juego:
+ 
+  - 2 ejercitos por Oceania,
+  - 2 ejercitos por America del Sur,
+  - 3 ejercitos por Africa,
+  - 5 ejercitos por Europa,
+  - 5 ejercitos por America del Norte, y
+  - 7 ejercitos por Asia.
+ 
+  3 -Cada vez que haya habido una o mas conquistas en un solo turno,
+  el jugador recibe una "carta" de refuerzo en ese turno.
+  Cuando el numero de cartas asciende a 5, en el siguiente turno estas
+  se reducen a 0 y se puede disponer de un numero aleatorio de ejercitos
+  suplementarios:
+   - 4,
+   - 6,
+   - 8,
+   - 10,
+   - o 12 ejercitos.
+<FinPagina>
+  Combates
+  =========
+ 
+Cuando ya se han colocado los refuerzos, el jugador puede atacar.
+Siempre se debe de ocupar un territorio al menos con un ejercito.
+No se puede atacar si no se parte de un territorio ocupado con dos
+ejercitos al menos.
+Los ejercitos pueden ser considerados indistintamente como ejercito
+de tierra o flota armada.
+ 
+Hay dos formas de atacar un territorio enemigo:
+ 
+  a) Por Tierra: si el territorio atacante tiene frontera comun.
+  b) Por Mar: siguiendo las lineas blancas que unen por mar dos territorios (por dibujar).
+ 
+  (La Tierra es redonda, se puede atacar Alaska por Kamchatka o viceversa).
+ 
+  Los combates se desarrollan como sigue:
+El atacante marca el territorio propio atacante y el atacado.
+Siempre se lanzaran el maximo numero de ejercitos atacantes (parametrizado entre 2 o 3 ejercitos).
+De tal manera que habran tantos "dados" como ejercitos tenga en el ataque.
+Se comparan separadamente cada uno de los dados del atacante con los del
+defensor, iniciando la operacion con los dados de mas alta puntuacion de
+cada parte.
+Las puntuaciones mas altas son las que ganan.
+En caso de igualdad, el defensor gana, aunque lance menos dados que el
+atacante.
+ 
+El jugador que tiene el turno, puede atacar cuantas veces quiera mientras
+le queden ejercitos, y si quiere, atacar otros territorios.
+Cuando el asaltante destruye sobre un territorio todos los ejercitos del
+defensor, ocupa este territorio y desde ahi puede continuar atacando a
+donde quiera.
+ 
+Cuando haya conquistado al menos un territorio, este jugador tiene derecho
+a recibir una carta; pero no recibe mas cartas porque haya conquistado mas
+territorios en el mismo turno: solo recibira una carta y nada mas que una.
+<FinPagina>
+  Desplazamientos
+  ===============
+ 
+Un jugador en su turno de juego, haya o no combatido, tiene derecho a
+desplazar todos o parte de sus ejercitos de un territorio a otro
+contiguo que le pertenezca.
+ 
+Solo se puede efectuar un desplazamiento en cada turno de juego; cuando
+se realicen los desplazamientos, se acaba el turno del jugador.
+Al igual que en los combates , se debe dejar al menos un ejercito sobre
+el territorio de salida.
+ 
+ 
+   Final de Juego
+   ===============
+ 
+   Cuando un asaltante destruye el ultimo ejercito del ultimo territorio
+de un adversario, lo elimina del juego definitivamente.
+Se apodera de sus cartas de juego, pudiendose servir de ellas, en el turno
+siguiente.
+ 
+   El GANADOR sera el que conquiste todos los territorios, eliminando
+por tanto a todos los adversarios.
+<FinPagina>
+   Recuerda:
+   ==========
+ 
+Y por terminar/repasar/REPETIR, este juego es un juego por turnos, y en cada turno
+ya hemos dicho que hay 3 movimientos:
+ 
+REFUERZOS: en el primer turno no hay refuerzos, directamente pasamos a Combates.
+Pasamos a Combates cuando colocamos el ultimo ejercito de nuestros refuerzos.
+ 
+COMBATES: podemos atacar tanto como deseamos, mientras tengamos tropas.
+Pasamos desde Combates a Desplazamientos pulsando el boton de 'Desplazamientos'.
+ 
+DESPLAZAMIENTOS: pulsado desplazamientos no se puede volver atras.
+Desplazamos las tropas mientras nuestros territorios esten conectados.
+ 
+Terminamos nuestro turno cuando pulsamos el boton de 'Fin de Turno'.
+Y así pasa al siguiente jugador.
+ 
+Los botones de 'Automatico' son para dejar a la maquina que haga las cosas por
+nosotros: tanto para los jugadores Humanos como para los jugadores 'Bot's.
+ 
+El juego, al empezar, empieza en modo automático, los jugadores, Bots y Humanos
+son llevados por la maquina.
+Para quitar el modo automatico hay que pulsar fuera de los territorios, por ejemplo,
+en el mar.
+Cuando no estamos en el modo automatico el boton de 'Automatico' aparece.
+Si pulsamos 'Automatico' en los Bots, estos siguen en automatico.
+Si pulsamos 'Automatico' en los Humanos, tambien estos siguen en automatico.
+ 
+ 
+¡ Y ya solo intenta disfrutar del juego !
+ 
