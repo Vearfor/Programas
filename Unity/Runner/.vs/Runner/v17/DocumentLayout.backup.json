@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\initscene\\screen\\titlescreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initscene\\screen\\titlescreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\gamescene\\gamemanager\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamemanager\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B96A0B-0CEB-4250-0314-169D3AC9C65B}|Libreria.csproj|c:\\actual\\curso\\tokio\\unity projects\\unitylib\\scripts\\tools\\playsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\initscene\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initscene\\mainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B96A0B-0CEB-4250-0314-169D3AC9C65B}|Libreria.csproj|c:\\actual\\curso\\tokio\\unity projects\\unitylib\\scripts\\tools\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\gamescene\\tps\\cmypersonanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\tps\\cmypersonanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\gamescene\\gamemanager\\objects\\objectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamemanager\\objects\\objectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\gamescene\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\initscene\\screen\\gamelistscreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initscene\\screen\\gamelistscreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\gamescene\\gamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\actual\\curso\\tokio\\unity projects\\runner\\assets\\scripts\\gamescene\\gamecanvas\\exitscreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamescene\\gamecanvas\\exitscreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameManager\\Runner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameManager\\Runner.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameManager\\Runner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameManager\\Runner.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAawOQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:15:06.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameScript.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameScript.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameScript.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:02:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameListScreenScript.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\InitScene\\Screen\\GameListScreenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InitScene\\Screen\\GameListScreenScript.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\InitScene\\Screen\\GameListScreenScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InitScene\\Screen\\GameListScreenScript.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:01:12.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TitleScreenScript.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\InitScene\\Screen\\TitleScreenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InitScene\\Screen\\TitleScreenScript.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\InitScene\\Screen\\TitleScreenScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InitScene\\Screen\\TitleScreenScript.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T14:00:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\UnityLib\\Scripts\\Tools\\Tool.cs",
+              "RelativeDocumentMoniker": "..\\UnityLib\\Scripts\\Tools\\Tool.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\UnityLib\\Scripts\\Tools\\Tool.cs",
+              "RelativeToolTip": "..\\UnityLib\\Scripts\\Tools\\Tool.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAmwBYBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:35:57.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaySound.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\UnityLib\\Scripts\\Tools\\PlaySound.cs",
+              "RelativeDocumentMoniker": "..\\UnityLib\\Scripts\\Tools\\PlaySound.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\UnityLib\\Scripts\\Tools\\PlaySound.cs",
+              "RelativeToolTip": "..\\UnityLib\\Scripts\\Tools\\PlaySound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:29:09.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectController.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameManager\\Objects\\ObjectController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameManager\\Objects\\ObjectController.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameManager\\Objects\\ObjectController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameManager\\Objects\\ObjectController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAD4v4cAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:55:14.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cMyPersonAnimator.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\TPS\\cMyPersonAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\TPS\\cMyPersonAnimator.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\TPS\\cMyPersonAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\TPS\\cMyPersonAnimator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T10:43:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainManager.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\InitScene\\MainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InitScene\\MainManager.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\InitScene\\MainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InitScene\\MainManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAtwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T13:28:25.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExitScreenScript.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameCanvas\\ExitScreenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameCanvas\\ExitScreenScript.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameCanvas\\ExitScreenScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameCanvas\\ExitScreenScript.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T15:56:43.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene\\GameManager\\GameManager.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\GameScene\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene\\GameManager\\GameManager.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAD4v50AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:47:05.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\Constants.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Constants.cs",
+              "ToolTip": "C:\\Actual\\Curso\\Tokio\\Unity Projects\\Runner\\Assets\\Scripts\\Constants.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:33:33.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
