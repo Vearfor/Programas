@@ -1336,12 +1336,12 @@
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Libreria">
+      <HintPath>Library\ScriptAssemblies\Libreria.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Libreria.csproj">
-      <Project>{24B96A0B-0CEB-4250-0314-169D3AC9C65B}</Project>
-      <Name>Libreria</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
